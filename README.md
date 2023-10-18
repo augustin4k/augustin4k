@@ -31,6 +31,7 @@ I'm **Augustin-Stelian**, a 24-year-old with a Bachelor's degree in Computer Sci
 
 - SQL 📊
 - TypeScript (Node.js) 🦄
+- PHP/Laravel 👨‍💻
 
 ### XML and Web Technologies 📜
 
@@ -39,10 +40,8 @@ I'm **Augustin-Stelian**, a 24-year-old with a Bachelor's degree in Computer Sci
 ### Version Control and DevOps 🛠️
 
 - Git & Bitbucket 🐱
-- Gradle 📦
 - Jenkins 🚀
-- Continuous Integration (CI) 🔄
-
+  
 ### Issue Tracking and Collaboration Tools 📝
 
 - JIRA 📝
