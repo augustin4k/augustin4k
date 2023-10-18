@@ -24,8 +24,7 @@ I'm **Augustin-Stelian**, a 24-year-old **Software Developer** with a Bachelor's
 - Web Development 🚀
 - Web Design (HTML, CSS, PHP, JavaScript, Bootstrap, Laravel) 💼
 - jQuery 🔧
-- Jest 🃏
-- Mocha ☕
+- Jest/Mocha 🧪
 
 ### Back-End and Databases 📦
 
