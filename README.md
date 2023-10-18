@@ -46,6 +46,14 @@ I'm **Augustin-Stelian**, a 24-year-old **Software Developer** with a Bachelor's
 - JIRA 📝
 - Confluence 📄
 
+### Containerization 🐳
+
+- Docker 🐳
+
+### Software 🖥️
+
+- Microsoft Office (Word, Excel, PowerPoint) 📦
+
 ## Certificates 📜
 
 1. **Certification: Cybersecurity Essentials**
@@ -71,14 +79,6 @@ I'm **Augustin-Stelian**, a 24-year-old **Software Developer** with a Bachelor's
    - 🏢 Issued by: Cisco Networking Academy
    - 📜 [NDG Linux Unhatched](https://mega.nz/file/j4lwVArJ#0DLzovQ8YvTT7H2Dw5GDFj3rJf0T6CM2iTCheUX-GGs)
    - [Edit this certification on LinkedIn](https://www.linkedin.com/in/augustin-stelian-a6377a119/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAAB165GsByTrP50Os3kRy2Tus9JdmpbWPcnY%2C1160084099%29)
-
-### Containerization 🐳
-
-- Docker 🐳
-
-### Software 🖥️
-
-- Microsoft Office (Word, Excel, PowerPoint) 📦
 
 ## Contact 📫
 
