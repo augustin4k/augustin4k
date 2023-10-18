@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm **Augustin-Stelian**, a 24-year-old with a Bachelor's degree in Computer Science and a passion for web development. I'm dedicated to creating innovative and user-friendly web solutions.
+I'm **Augustin-Stelian**, a 24-year-old **Software Developer** with a Bachelor's degree in Computer Science and a passion for web development. I'm dedicated to creating innovative and user-friendly web solutions.
 
 ### Something about me:
 
