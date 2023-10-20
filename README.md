@@ -7,12 +7,12 @@ I'm **Augustin-Stelian**, a 24-year-old **Software Developer** with a Bachelor's
 ### Something about me:
 
 - 🚀 Highly motivated and always eager to learn.
-- 🌟 Thrives on tackling challenging tasks and finding innovative solutions.
-- 💡 Loves brainstorming unique approaches to problem-solving.
+- 🌟 Thrive on tackling challenging tasks and finding innovative solutions.
+- 💡 Love brainstorming unique approaches to problem-solving.
 - 🛠️ Proficient in TypeScript, Vue.js, Python, Node.js, and SQL.
 - 💻 Passionate about web development and creating user-friendly solutions.
-- 🔧 Enjoys optimizing code and preventing reoccurrence of bugs.
-- 🤝 Loves collaborating to achieve successful outcomes.
+- 🔧 Enjoy optimizing code and preventing reoccurrence of bugs.
+- 🤝 Love collaborating to achieve successful outcomes.
 - 🌐 Enthusiastic about frontend JavaScript technologies such as Vue, React, and Angular.
 
 ## Skills 🚀
