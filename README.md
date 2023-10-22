@@ -64,4 +64,4 @@ Python · C++, C# · Java · OOP & SOLID
 
 Feel free to reach out to me:
 
-- Email: cojocaru_augustin@mail.ru
+- Email: augustincojocaru1999@gmail.com
