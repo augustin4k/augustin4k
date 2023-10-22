@@ -17,63 +17,47 @@ I'm **Augustin-Stelian**, a 24-year-old **Software Developer** with a Bachelor's
 
 ## Skills 🚀
 
-### Front-End 🌐
+### Front-End
+Typescript/Javascript · Vue js · JQuery · HTML/CSS · XML/XSD · AJAX
 
-- Vue.js 📸
-- HTML / CSS / JavaScript 🎨
-- Web Development 🚀
-- Web Design (HTML, CSS, PHP, JavaScript, Bootstrap, Laravel) 💼
-- jQuery 🔧
-- Jest/Mocha 🧪
+### Back-End and Databases
+SQL · Node.js/Express · Rest-api · RabbitMQ · Apache Kafka · Amazon S3 · PHP · Laravel
 
-### Back-End and Databases 📦
+### Version Control and DevOps
+Docker · Git/GitHub · Jenkins
 
-- SQL 📊
-- TypeScript (Node.js) 🦄
-- PHP/Laravel 👨‍💻
+### Issue Tracking and Collaboration Tools
+Agile-Scrum · Atlassian stack (Jira, Confluence, Bitbucket, ...)
 
-### XML and Web Technologies 📜
+### Software
+Microsoft Office (Microsoft Word, Microsoft Excel, ...)
 
-- XML, XSD, XSL 🌐
+### Testing
+Unit Testing (Mocha, Jest)
 
-### Version Control and DevOps 🛠️
-
-- Git & Bitbucket 🐱
-- Jenkins 🚀
-  
-### Issue Tracking and Collaboration Tools 📝
-
-- JIRA 📝
-- Confluence 📄
-
-### Containerization 🐳
-
-- Docker 🐳
-
-### Software 🖥️
-
-- Microsoft Office (Word, Excel, PowerPoint) 📦
+### Other
+Python · C++, C# · Java · OOP & SOLID
 
 ## Certificates 📜
 
 1. [**Introduction to Cybersecurity**](https://www.credly.com/badges/06ddff19-eb16-491f-8e64-5b94107a7469/public_url)
-   - 📅 Issued Date: April 2020
+   - 🗓️ Issued Date: April 2020
    - 🏢 Issued by: Cisco Networking Academy
 
 2. [**NDG Linux Unhatched**](https://mega.nz/file/j4lwVArJ#0DLzovQ8YvTT7H2Dw5GDFj3rJf0T6CM2iTCheUX-GGs)
-   - 📅 Issued Date: June 2020
+   - 🗓️ Issued Date: June 2020
    - 🏢 Issued by: Cisco Networking Academy
 
 3. [**CCNA Routing and Switching: Introduction to Networks**](https://mega.nz/file/ywtUjZya#rLnysD5eWwyk7E_CGjfrGblWJdkEObTdsHksGo0YUJE)
-   - 📅 Issued Date: January 2021
+   - 🗓️ Issued Date: January 2021
    - 🏢 Issued by: Cisco Networking Academy
 
 4. [**PCAP: Programming Essentials in Python**](https://mega.nz/file/O4M2GA6Q#UmrhqXq5LMOKtwL8-TyLK5TDrYGLSmhqr-e8xDkf46k)
-   - 📅 Issued Date: June 2021
+   - 🗓️ Issued Date: June 2021
    - 🏢 Issued by: Cisco Networking Academy
 
 5. [**Cybersecurity Essentials**](https://www.credly.com/badges/88a70306-8e20-48c1-ae1a-b7f330571d8e/public_url)
-   - 📅 Issued Date: May 2022
+   - 🗓️ Issued Date: May 2022
    - 🏢 Issued by: Cisco Networking Academy
 
 ## Contact 📫
