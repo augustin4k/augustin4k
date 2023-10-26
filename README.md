@@ -17,26 +17,12 @@ I'm **Augustin-Stelian**, a 24-year-old **Software Developer** with a Bachelor's
 
 ## Skills 🚀
 
-### Front-End
-Typescript/Javascript · Vue js · JQuery · HTML/CSS · XML/XSD · AJAX
-
-### Back-End and Databases
-SQL · Node.js/Express · Rest-api · RabbitMQ · Apache Kafka · Amazon S3 · PHP · Laravel
-
-### Version Control and DevOps
-Docker · Git/GitHub · Jenkins
-
-### Issue Tracking and Collaboration Tools
-Agile-Scrum · Atlassian stack (Jira, Confluence, Bitbucket, ...)
-
-### Software
-Microsoft Office (Microsoft Word, Microsoft Excel, ...)
-
-### Testing
-Unit Testing (Mocha, Jest)
-
-### Other
-Python · C++, C# · Java · OOP & SOLID
+🛠️ ###Programming languages: 
+   Typescript/Javascript - advanced; Python · SQL · PHP - medium; Java · C· C# · C++ - base.
+📦 ###Frameworks/libraries: 
+   Vue.js · Unit Testing (Jest/Mocha) · JQuery · Bootstrap - advanced; Laravel · Node.js - medium.
+🌐 ###Languages: 
+   Romanian - native; Russian · Ukrainian - C1; English - B2; German - A2.
 
 ## Certificates 📜
 
