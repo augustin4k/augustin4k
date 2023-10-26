@@ -17,12 +17,20 @@ I'm **Augustin-Stelian**, a 24-year-old **Software Developer** with a Bachelor's
 
 ## Skills 🚀
 
-🛠️ ### Programming languages: 
-   Typescript/Javascript - advanced; Python · SQL · PHP - medium; Java · C· C# · C++ - base.
-📦 ### Frameworks/libraries: 
-   Vue.js · Unit Testing (Jest/Mocha) · JQuery · Bootstrap - advanced; Laravel · Node.js - medium.
-🌐 ### Languages: 
-   Romanian - native; Russian · Ukrainian - C1; English - B2; German - A2.
+🛠️ **Programming languages:**
+   - Typescript/Javascript: Advanced
+   - Python · SQL · PHP: Medium
+   - Java · C· C# · C++: Base
+
+📦 **Frameworks/libraries:**
+   - Vue.js · Unit Testing (Jest/Mocha) · JQuery · Bootstrap: Advanced
+   - Laravel · Node.js: Medium
+
+🌐 **Languages:**
+   - Romanian: Native
+   - Russian · Ukrainian: C1
+   - English: B2
+   - German: A2
 
 ## Certificates 📜
 
