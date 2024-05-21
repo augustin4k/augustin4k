@@ -23,7 +23,7 @@ I'm **Augustin-Stelian**, a 24-year-old **Software Developer** with a Bachelor's
    - Java · C· C# · C++: Base
 
 📦 **Frameworks/libraries:**
-   - Vue.js · Unit Testing (Jest/Mocha) · JQuery · Bootstrap: Advanced
+   - Vue.js · Unit Testing (Jest/Mocha) · JQuery · Bootstrap · Svelte: Advanced
    - Laravel · Node.js: Medium
 
 🌐 **Languages:**
